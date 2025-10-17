@@ -8,5 +8,5 @@ the appearance doesn't really look complete, but i learn more and more about the
 
 ![betta_20](https://github.com/user-attachments/assets/166c333d-fc1b-4435-b03b-5bf0519e5da4)
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/zVz6vX4YYgU))
+[![Watch the video]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/zVz6vX4YYgU))
 
