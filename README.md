@@ -8,5 +8,6 @@ the appearance doesn't really look complete, but i learn more and more about the
 
 ![betta_20](https://github.com/user-attachments/assets/166c333d-fc1b-4435-b03b-5bf0519e5da4)
 
-[Watch the video](/OpenGL_Animation_Bunyapon.mp4)
+Full Video:
+https://youtu.be/zVz6vX4YYgU
 
